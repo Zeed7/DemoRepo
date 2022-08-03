@@ -13,6 +13,7 @@ from PySide6.QtWidgets import (QApplication, QFrame, QLabel, QLineEdit, QFileDia
     QMainWindow, QPushButton, QCheckBox,
     QWidget)
 import sys
+from time import sleep
 
 
 
